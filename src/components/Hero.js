@@ -33,10 +33,10 @@ export default function Hero({ open }) {
       <Gallery />
       <Countdown/>
       <Celebration />
-      <Card title="WHERE">
-        The Glass House Estate
+      <Card title="RSVP">
+        Please reply
         <br />
-        Monterey, California
+        As soon as possible.
       </Card>
 
       <Footer />

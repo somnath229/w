@@ -70,7 +70,7 @@ const styles = {
 
   arrow: {
     position: "absolute",
-    bottom: 30,
+    bottom: "4rem",
     fontSize: "6rem",
     cursor: "pointer",
     transition: "opacity 0.4s",
